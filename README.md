@@ -5,17 +5,17 @@
  You can connect with me on
 <div id="badges">
   <a href="https://www.linkedin.com/in/ibrokhimjon-yursunov-7b4976233/">
-    <img target="_blank" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img target="blank" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/Ibrohimjon_Yursunov" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-green?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a target="_blank" href="ibrohimjonyursunov50@gmail.com">
+  <a target="blank" href="ibrohimjonyursunov50@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-orange?style=for-the-badge&logo=diyorshodmonov969@gmail.com&logoColor=white" alt="diyorshodmonov969@gmail.com Badge"/>
   </a>
 </div>
 
-<img target="_blank" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif">
+<img target="blank" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif">
 
 ### About me
 
