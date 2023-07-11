@@ -4,8 +4,8 @@
 
  You can connect with me on
 <div id="badges">
-  <a href="https://www.linkedin.com/in/ibrokhimjon-yursunov-7b4976233/">
-    <img target="blank" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a  target="_blank" href="https://www.linkedin.com/in/ibrokhimjon-yursunov-7b4976233/">
+    <img  src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/Ibrohimjon_Yursunov" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-green?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
